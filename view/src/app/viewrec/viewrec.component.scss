@@ -1,0 +1,51 @@
+// .about-section{
+
+//     width : 50px;
+//     height: 45px;
+//     position:absolute;
+//     bottom: 40px;
+//     right: 50px;
+    
+    
+// }
+.container {
+//     display: flex;
+//     justify-content: center;
+//     align-items: center;
+//     height: 40vh; /* Adjust the height if needed to center the content vertically */
+  }
+  
+  .about-section {
+    max-width: 100%;
+    text-align: center;
+    height: 40vh;
+    margin-bottom: 5rem;
+  }
+  .heading{
+    max-width: 100%;
+    text-align: center;
+   
+
+  }
+
+.btn{
+    border-radius: 50px;
+    background: #FF5C53;
+    box-shadow: 0px 6px 4px 0px white(0, 0, 0, 0.25);
+    
+    width : 300px;
+    height: 60px;
+    position:absolute;
+    bottom: 60px;
+    // right: 7px;  
+    margin-top: 10rem;
+    right : 1px;
+}
+.continue{
+    color: white;
+}
+.text{
+    max-width: 100%;
+    text-align: center;
+   
+}
